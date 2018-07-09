@@ -1,0 +1,29 @@
+.grid{
+  display: inline-block;
+  border: 1px solid rgba(0,0,0,1);
+	margin:0;
+	padding:0;
+}
+
+.gridWrp {
+  width: 960px;
+  height: 960px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+.topBtns{
+  display:inline;
+  margin-left: 40%;
+}
+
+.clearBtn{
+  margin-top: 50px;
+  margin-bottom: 50px;
+  width: 80px;
+}
+
+.gridBtn .blkBtn{
+  margin-left: 50px;
+  width: 80px;
+}
